@@ -15,3 +15,5 @@ Swing Notes API är ett backend-API för hantering av personliga anteckningar. A
 3. Starta servern:
 4. ## API-dokumentation (Swagger)
 När servern är igång kan du komma åt den interaktiva Swagger-dokumentationen genom att besöka: http://localhost:3000/api-docs
+
+## Inspelad presentation hittas på Teams
