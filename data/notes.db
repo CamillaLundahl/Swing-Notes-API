@@ -1,0 +1,10 @@
+{"title":"Min första anteckning","text":"Detta är innehållet i min första anteckning.","userId":"C0TE03UT1DEq6ZG9","createdAt":{"$$date":1745829272379},"modifiedAt":{"$$date":1745829272379},"_id":"brq1LRaemph3SqPm"}
+{"title":"Anteckning 1","text":"En liten test bara, som nu är uppdaterad.","userId":"C0TE03UT1DEq6ZG9","createdAt":{"$$date":1745919461962},"modifiedAt":{"$$date":1745919533964},"_id":"ibYvnpYv7bmzQc5h"}
+{"title":"Anteckning 2","text":"En liten test bara 2.","userId":"2POhUnN4gDiTVXBY","createdAt":{"$$date":1746380347737},"modifiedAt":{"$$date":1746380347737},"_id":"166VrlZjn9YaWwfu"}
+{"title":"Anteckning 3","text":"En liten test bara 3.","userId":"2POhUnN4gDiTVXBY","createdAt":{"$$date":1746380377373},"modifiedAt":{"$$date":1746380377373},"_id":"yXiNOMq4HohTV20V"}
+{"title":"Anteckning 2","text":"En liten test bara, som nu är uppdaterad 2.","userId":"2POhUnN4gDiTVXBY","createdAt":{"$$date":1746380347737},"modifiedAt":{"$$date":1746380457185},"_id":"166VrlZjn9YaWwfu"}
+{"$$deleted":true,"_id":"166VrlZjn9YaWwfu"}
+{"title":"Anteckning 1","text":"En liten test bara 1.","userId":"M2R9H9ug2BdqJbaW","createdAt":{"$$date":1746384013802},"modifiedAt":{"$$date":1746384013802},"_id":"f51pRugtqCZRQ28v"}
+{"title":"Anteckning 2","text":"En liten test bara 2.","userId":"M2R9H9ug2BdqJbaW","createdAt":{"$$date":1746384040173},"modifiedAt":{"$$date":1746384040173},"_id":"30RisqC4863dhcBe"}
+{"title":"Anteckning 2","text":"En liten test bara, som nu är uppdaterad 2.","userId":"M2R9H9ug2BdqJbaW","createdAt":{"$$date":1746384040173},"modifiedAt":{"$$date":1746384089357},"_id":"30RisqC4863dhcBe"}
+{"$$deleted":true,"_id":"30RisqC4863dhcBe"}
